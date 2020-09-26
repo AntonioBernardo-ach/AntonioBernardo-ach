@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="C:\Users\arauj\OneDrive\Documentos\GitHub\Teste-github\computer-illustration.png" width="350"/>
+<img align="right" src="https://github.com/AntonioBernardo-ach/Teste-github/blob/master/computer-illustration.png" width="350"/>
 
 # Olá, Seja bem vindo ao meu perfil! 👨‍💻
 ~~~
-* 😄 Eu gosto muito de aprender
+* 😄 Eu gosto muito de aprender.
 
-* 📊 Não estou trabalhando
+* 📊 Não estou trabalhando.
 
-* 📚 Atualmente estudando algoritmo
+* 📚 Atualmente estudando algoritmo.
 
-* 🌍 E eu também gosto de viajar
+* 🌍 E eu também gosto de viajar.
 
-* 🎮 Amo games e animes❤️
-
+* 🎮 Amo games e animes❤️.
