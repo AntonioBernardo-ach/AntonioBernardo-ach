@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/AntonioBernardo-ach/Teste-github/blob/master/computer-illustration.png" width="350"/>
 
-# Olá, Seja bem vindo ao meu perfil! 👨‍💻
-~~~
+## Olá, Seja bem vindo ao meu perfil! 👨‍💻
+---
 * 😄 Eu gosto muito de aprender.
 
 * 📊 Não estou trabalhando.
