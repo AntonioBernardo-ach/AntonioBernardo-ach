@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AntonioBernardo-ach/AntonioBernardo-ach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+< img align="right" src="C:\Users\arauj\OneDrive\Documentos\GitHub\micaellimedeiros\image\computer-illustration.png" width="350" />
+
+# Olá, Seja bem vindo ao meu perfil! 👨‍💻
+~~~
+* 😄 Eu gosto muito de aprender
+
+* 📊 Não estou trabalhando
+
+* 📚 Atualmente estudando algoritmo
+
+* 🌍 E eu também gosto de viajar
+
+* 🎮 Amo games e animes❤️
+
