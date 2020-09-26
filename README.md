@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-< img align="right" src="C:\Users\arauj\OneDrive\Documentos\GitHub\micaellimedeiros\image\computer-illustration.png" width="350" />
+<img align="right" src="C:\Users\arauj\OneDrive\Documentos\GitHub\Teste-github\computer-illustration.png" width="350"/>
 
 # Olá, Seja bem vindo ao meu perfil! 👨‍💻
 ~~~
